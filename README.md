@@ -1,4 +1,4 @@
 SafeMap
 =======
 
-a safe map
+a thread-safe map
