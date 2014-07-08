@@ -1,0 +1,4 @@
+SafeMap
+=======
+
+a safe map
