@@ -97,6 +97,6 @@ func (sm safeMap) run() {
 
 func NewSafeMap() {
 	sm := make(safeMap)
-	sm.run()
+	go sm.run()
 	return sm
 }
