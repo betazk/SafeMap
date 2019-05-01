@@ -1,4 +1,4 @@
 SafeMap
 =======
 
-a thread-safe map
+一个练习用的线程安全的map，性能级差
